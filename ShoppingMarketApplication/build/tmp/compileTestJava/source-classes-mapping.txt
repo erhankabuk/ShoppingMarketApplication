@@ -1,0 +1,2 @@
+com/erhankabuk/ShoppingMarketApplication/ShoppingMarketApplicationTests.java
+ com.erhankabuk.ShoppingMarketApplication.ShoppingMarketApplicationTests
